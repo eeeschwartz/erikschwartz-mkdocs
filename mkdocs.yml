@@ -1,0 +1,4 @@
+site_name: Erik Schwartz - AI Whisperer
+site_url: https://eeeschwartz.github.io/erikschwartz-mkdocs/
+theme:
+  name: material
