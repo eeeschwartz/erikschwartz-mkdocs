@@ -126,7 +126,7 @@ markdown_extensions:
 #   - Job Board: "https://jobs.applied-llms.org"
 #   - Writing:
 #     - "writing/index.md"
-# plugins:
+plugins:
 #   - social
 #   - rss:
 #       match_path: "writing/posts/.*"
@@ -142,14 +142,14 @@ markdown_extensions:
 #             members_order: alphabetical
 #             allow_inspection: true
 #             show_bases: true
-#   - blog:
-#       enabled: !ENV CI
-#       blog_dir: writing
-#       blog_toc: true
-#       post_dir: writing/posts
-#       post_date_format: yyyy/MM/dd
-#       post_url_format: "{date}/{slug}"
-#       authors_file: "{blog}/.authors.yml"
+  - blog:
+      enabled: !ENV CI
+      blog_dir: writing
+      blog_toc: true
+      post_dir: writing/posts
+      post_date_format: yyyy/MM/dd
+      post_url_format: "{date}/{slug}"
+      authors_file: "{blog}/.authors.yml"
 # extra:
 #   analytics:
 #     provider: google
