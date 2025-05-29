@@ -1,5 +1,5 @@
 site_name: Erik Schwartz
-site_url: https://eeeschwartz.github.io/erikschwartz-mkdocs/
+site_url: https://www.erikschwartz.net
 theme:
   name: material
   custom_dir: overrides
