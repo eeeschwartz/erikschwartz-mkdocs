@@ -1,17 +1,69 @@
-# Welcome to MkDocs
+# AI Strategy Advisory for Business Leaders
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Transform your team's decision-making with AI-assisted frameworks
 
-## Commands
+Your experienced team deserves better decision-making processes, not more tools. You need proven frameworks that help your team think more clearly, align faster, and execute with confidence. With the right patterns and guidance, your team can achieve measurable improvements in strategic thinking in 2-3 months.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+You get capabilities, not dependencies. You get frameworks, not ongoing contracts.
 
-## Project layout
+[Book a Strategic AI Readiness Review](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## What you're really buying
+
+You're not looking for another consultant who creates dependency - you need better processes that stick. You want methods to make strategic decisions faster and systematically improve team alignment around your most important initiatives.
+
+When our engagement ends, you'll have:
+
+- **Strategic decision frameworks** - Systematic approaches to evaluate opportunities and risks using AI-assisted analysis
+- **Team alignment processes** - Clear methods for building shared context and reducing miscommunication cycles  
+- **Goal refinement patterns** - Structured approaches to define high-leverage objectives and track meaningful progress
+
+<!-- ---
+
+## Select clients
+
+| Client | Contact | Challenge |
+|--------|---------|-----------|
+| Mid-market SaaS | VP Product | Strategic prioritization |
+| Professional services | Managing Partner | Team goal alignment |
+| Tech startup | CEO | Decision-making speed |
+| Manufacturing | Operations Director | Process optimization |
+
+--- -->
+
+## Real results from real teams
+
+*"Erik's frameworks helped us cut our strategic planning cycles from 6 weeks to 2 weeks while improving the quality of our decisions. The team alignment process alone saved us months of back-and-forth."*
+— Product VP, SaaS company
+
+<!-- *"Working with Erik gave us systematic approaches to team goal-setting that we still use 8 months later. Our leadership team finally speaks the same language."*
+— CEO, Professional services
+
+*"The decision-making frameworks Erik introduced helped us spot problems 3-4 weeks earlier than we used to. That's been huge for our project success rate."*
+— Engineering Director, Tech company -->
+
+---
+
+## Ready to improve your team's strategic thinking?
+
+Most teams struggle with unclear goals and slow decision-making - but your existing team can develop systematic approaches with the right guidance. I'll help your team implement frameworks for better strategic thinking and alignment in 2-3 months.
+
+**No maintenance contracts. No dependencies. Just frameworks that work.**
+
+[Book a Strategic AI Readiness Review](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
+<!-- 
+---
+
+## Investment options
+
+**Monthly Advisory: $8,500/month**  
+Bi-weekly strategy sessions, framework development, team coaching for ongoing strategic challenges
+
+**90-Day Framework Installation: $18,500**  
+Intensive engagement to install decision-making and alignment frameworks with your team
+
+For larger organizational transformations, my minimum engagement is $35,000. If you're interested in learning more, send me an email.
+
+Need something more focused? Check out my [Team Alignment Workshop] for specific implementation techniques. -->
