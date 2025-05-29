@@ -1,5 +1,5 @@
 ---
-title: "Automated product brief alignment: saves teams time and toil"
+title: "Automated product brief alignment: make better decisions faster"
 description: "...taking into consideration all of your most important company strategy docs in NotebookLM (which you already have access to  😊 )"
 categories:
   - "Applied AI"

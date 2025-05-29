@@ -8,7 +8,7 @@ tags:
   - "Alignment"
   - "Automation"
   - "Project Management"
-date: 2025-05-23
+date: 2025-05-19
 comments: true
 authors:
   - eeeschwartz
