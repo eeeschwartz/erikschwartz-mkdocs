@@ -1,0 +1,14 @@
+/* Make all text color white in dark mode */
+[data-md-color-scheme="slate"] {
+  color: #fff !important;
+}
+
+.md-button {
+  background: #4051b5 !important;
+  color: #fff !important;
+}
+
+/* Make CTA button background white in dark mode */
+[data-md-color-scheme="slate"] .md-button {
+  border: 1px solid #fff;
+} 

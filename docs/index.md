@@ -2,17 +2,21 @@
 
 ## Transform your team's decision-making with AI-assisted frameworks
 
-Your experienced team deserves better decision-making processes, not more tools. You need proven frameworks that help your team think more clearly, align faster, and execute with confidence. With the right patterns and guidance, your team can achieve measurable improvements in strategic thinking in 2-3 months.
+Your experienced team deserves better decision-making processes, not more tools. You need proven frameworks that help your team think more clearly, align faster, and execute with confidence. 
+
+With the right patterns and guidance, your team can achieve measurable improvements in strategic thinking in 2-3 months.
 
 You get capabilities, not dependencies. You get frameworks, not ongoing contracts.
 
-[Book a Strategic AI Readiness Review](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
+[Book Your Readiness Review](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
 
 ---
 
 ## What you're really buying
 
-You're not looking for another consultant who creates dependency - you need better processes that stick. You want methods to make strategic decisions faster and systematically improve team alignment around your most important initiatives.
+You're not looking for another consultant who creates dependency - you need better processes that stick. 
+
+You want methods to make strategic decisions faster and systematically improve team alignment around your most important initiatives.
 
 When our engagement ends, you'll have:
 
@@ -35,24 +39,27 @@ When our engagement ends, you'll have:
 
 ## Real results from real teams
 
-*"Erik's frameworks helped us cut our strategic planning cycles from 6 weeks to 2 weeks while improving the quality of our decisions. The team alignment process alone saved us months of back-and-forth."*
-— Product VP, SaaS company
+*"This is the way all of our teams should work."*
+— Product VP | Global Consumer Tech Company
 
-<!-- *"Working with Erik gave us systematic approaches to team goal-setting that we still use 8 months later. Our leadership team finally speaks the same language."*
-— CEO, Professional services
+*"Erik brings together AI knowledge, data skills, product thinking, and coding abilities - a combo that's super hard to find. I couldn't recommend him more."*
+— John | Founder/CTO at MillyBooks
 
-*"The decision-making frameworks Erik introduced helped us spot problems 3-4 weeks earlier than we used to. That's been huge for our project success rate."*
-— Engineering Director, Tech company -->
+
+*The work for my law firm has been a game-changer. The system keeps improving over time as it learns from usage — truly impressive work. If you’re considering working with Erik, don’t hesitate."*
+— Bradley | Founder - Form Over Function Software, KY Cannabis Law Group
 
 ---
 
 ## Ready to improve your team's strategic thinking?
 
-Most teams struggle with unclear goals and slow decision-making - but your existing team can develop systematic approaches with the right guidance. I'll help your team implement frameworks for better strategic thinking and alignment in 2-3 months.
+Most teams struggle with unclear goals and slow decision-making - but your existing team can develop systematic approaches with the right guidance. 
+
+I'll help your team implement frameworks for better strategic thinking and alignment in 2-3 months.
 
 **No maintenance contracts. No dependencies. Just frameworks that work.**
 
-[Book a Strategic AI Readiness Review](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
+[Book Your Readiness Review](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
 <!-- 
 ---
 

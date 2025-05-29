@@ -1,4 +1,4 @@
-site_name: Erik Schwartz - AI Whisperer
+site_name: Erik Schwartz
 site_url: https://eeeschwartz.github.io/erikschwartz-mkdocs/
 theme:
   name: material
@@ -7,7 +7,6 @@ theme:
     repo: fontawesome/brands/github
     edit: material/pencil 
     view: material/eye
-    theme:
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16
@@ -48,7 +47,18 @@ theme:
     - search.suggest
     - toc.follow
   palette:
-      - scheme: youtube
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
@@ -68,7 +78,6 @@ markdown_extensions:
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
-  - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -102,8 +111,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.arithmatex:
-      generic: true
 # nav:
 #   - Home: 
 #     - Introductions: 'index.md'
@@ -156,8 +163,8 @@ markdown_extensions:
 #       link: https://github.com/jxnl
 #     - icon: fontawesome/brands/linkedin
 #       link: https://www.linkedin.com/in/jxnl
-# extra_css:
-#   - stylesheets/extra.css
+extra_css:
+  - stylesheets/extra.css
 # extra_javascript:
 #   - javascripts/mathjax.js
 #   - javascripts/analytics.js
