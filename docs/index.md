@@ -42,7 +42,7 @@ When our engagement ends, you'll have:
 
 | Recommendation | Name | Title |
 |---|---|---|
-| *"This is the way all of our teams should work."* | Product VP | Global Consumer Tech Company |
+| *"I like this and can see it being part of our default workflows."* | Product VP | Global Consumer Tech Company |
 | *"Erik brings together AI knowledge, data skills, product thinking, and coding abilities - a combo that's super hard to find. I couldn't recommend him more."* | John | Founder/CTO at MillyBooks |
 | *"The work for my law firm has been a game-changer. The system keeps improving over time as it learns from usage — truly impressive work. If you’re considering working with Erik, don’t hesitate."* | Bradley | Founder - Form Over Function Software, KY Cannabis Law Group |
 
