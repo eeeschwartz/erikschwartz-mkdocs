@@ -1,5 +1,5 @@
 site_name: Erik Schwartz
-site_url: https://www.erikschwartz.net
+site_url: https://erikschwartz.net
 theme:
   name: material
   custom_dir: overrides
