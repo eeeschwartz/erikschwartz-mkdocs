@@ -142,6 +142,7 @@ plugins:
 #             members_order: alphabetical
 #             allow_inspection: true
 #             show_bases: true
+  - macros
   - blog:
       enabled: !ENV CI
       blog_dir: writing

@@ -1,3 +1,20 @@
+---
+title: "People are the hard part"
+description: "AI coordination challenges"
+categories:
+  - "Applied AI"
+  - "Writing and Communication"
+tags:
+  - "Alignment"
+  - "Automation"
+  - "Project Management"
+date: 2025-06-02
+comments: true
+authors:
+  - eeeschwartz
+---
+
+
 "People are the hard part."
 
 That's what a design leader told me the other day when we were discussing AI coordination challenges.

@@ -6,3 +6,4 @@ mkdocs-minify-plugin
 mkdocs-redirects
 mkdocs-rss-plugin
 mkdocs-blog-plugin
+mkdocs-macros-plugin
