@@ -165,7 +165,8 @@ plugins:
 #       link: https://www.linkedin.com/in/jxnl
 extra_css:
   - stylesheets/extra.css
-# extra_javascript:
+extra_javascript:
+  - https://f.convertkit.com/ckjs/ck.5.js
 #   - javascripts/mathjax.js
 #   - javascripts/analytics.js
 #   - https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6
