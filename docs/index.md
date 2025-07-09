@@ -1,115 +1,95 @@
-# Stop Being the Bottleneck in Your Own Business
+---
+hide:
+  - toc
+---
 
-**Build AI-powered operational systems that eliminate administrative toil, accelerate strategic decision-making, and amplify your team's throughput—turning efficiency into your decisive competitive weapon.**
+# Discover How Much Revenue Your Management Team Could Unlock
+
+**Take our 5-minute Revenue Growth Efficiency Assessment and learn where capable teams get trapped doing admin work instead of driving growth—with immediate, confidential results and no sales pitch.**
+
+<div id="assessmentIntro">
+  <div style="background: var(--md-accent-fg-color--transparent); padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
+    <h3 style="margin: 0 0 1rem 0; color: var(--md-accent-fg-color);">Revenue Growth Efficiency Assessment</h3>
+    <p style="margin: 0 0 1.5rem 0; font-size: 1.1em;">Discover where your management team's revenue potential is being trapped</p>
+    <button class="cta-button" onclick="startAssessment()" style="background: var(--md-accent-fg-color); color: white; padding: 1rem 2rem; border: none; border-radius: 4px; font-size: 1.1em; cursor: pointer;">
+      Take the Revenue Growth Efficiency Assessment
+    </button>
+    <p style="margin: 1rem 0 0 0; font-size: 0.9em; opacity: 0.8;">5 minutes • Immediate results • No sales pitch</p>
+  </div>
+</div>
+
+<div id="assessmentContainer" style="display: none;">
+  <!-- Assessment questions will be loaded here -->
+</div>
 
 ---
 
-## 🚨 The Hidden Cost of Operational Inefficiency
+## 🚨 The Hidden Revenue Drain in Your Business
 
-You built a successful business, but your team is drowning in administrative tasks and slow strategic decision-making. Your best people spend hours on routine documentation. Key staff get buried in repetitive processes. Senior leadership handles work that junior staff could manage with the right systems. **And when it comes to strategic decisions, you're operating with incomplete context, making choices that could benefit from the collective intelligence of your entire business.**
+Your management team is capable. Your company is successful. But your best people spend hours on administrative tasks instead of revenue-generating activities. Senior leaders handle work that junior staff could manage with the right systems. **Strategic initiatives get delayed because your management layer is buried in operational weeds.**
 
-**Your competitors will adopt AI tools tactically. They will fail because they don't understand that technology adoption is a change management problem, not a software problem.**
+**While your competitors struggle with the same management bottlenecks, there's a rare opportunity for operationally-excellent companies to unlock trapped revenue potential and gain a decisive competitive advantage.**
 
-This creates a rare opportunity for operationally-excellent companies to gain a decisive head start—turning industry-wide disruption into a powerful, defensible advantage.
+Your management team's time should drive growth, not get consumed by administrative burden.
 
-[Book Your Operational Assessment](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
-
----
-
-## The Real Problem: Administrative Toil Is Killing Your Growth
-
-While other business owners are drowning in operational chaos and decision paralysis, the smartest ones are asking: **"How do we systematically eliminate low-value work AND make strategic decisions faster using the full intelligence of our business?"**
-
-### 🔄 The Administrative Burden Trap
-Your most valuable people—managers, specialists, senior staff—spend 40-60% of their time on repetitive administrative tasks that could be systematized.
-
-### 🧠 The Strategic Decision Bottleneck
-Important business decisions get made with incomplete context. You lack a centralized source of business intelligence that can inform choices with your company's full knowledge and historical wisdom.
-
-### 🎯 Expertise Bottlenecks  
-Critical processes that require senior judgment (document review, quality control, customer communication) create bottlenecks because only leadership can handle them.
-
-### ⚡ The Throughput Ceiling
-You can't scale what requires constant human intervention. Your revenue growth hits a ceiling because operational inefficiency and slow decision-making constrain your team's productive capacity.
+[Discover Your Revenue Growth Potential](#assessmentIntro){ .md-button }
 
 ---
 
-## What You're Really Getting
+## The Management Bottleneck: Where Revenue Gets Trapped
 
-**You're not looking for another consultant who installs software—you need systematic operational transformation that sticks.**
+Smart business leaders are asking: **"How much revenue could my management team unlock if they focused on growth instead of administrative tasks?"**
 
-You want to eliminate administrative toil, accelerate strategic decision-making, amplify team throughput, and turn operational excellence into a competitive weapon that attracts top talent and perfect-fit customers.
+### 💰 The Revenue Opportunity Cost
+Your management team—directors, VPs, senior staff—spend 40-60% of their time on administrative tasks that could be systematized, missing revenue-generating opportunities.
 
-When our engagement ends, you'll have:
+### 🎯 The Strategic Execution Gap
+Important growth initiatives get delayed because capable leaders are trapped handling routine operational work instead of driving strategic results.
 
-### 🧭 AI-Powered Operational Systems
-Custom-built engines for your highest-volume processes—document generation, quality review, customer communication—that maintain standards while eliminating manual work.
+### 🔄 The Administrative Burden Spiral  
+Critical processes that require management oversight (approvals, reviews, decision-making) create bottlenecks that slow revenue-generating activities.
 
-### 🧠 Strategic Decision Intelligence
-A comprehensive "business brain" that captures your company's full context—goals, values, processes, competitive landscape—enabling faster, better-informed strategic decisions using AI-assisted analysis.
-
-### ⚙️ Systematic Expertise Transfer  
-Senior-level knowledge converted into automated workflows that provide immediate, reliable support to your entire team without creating dependencies.
-
-### 🎯 Strategic Technology Integration
-Guidance on the right combination of custom systems and best-in-class software tools that deliver measurable ROI, ensuring you invest in solutions that amplify results.
-
-### 🚀 Competitive Market Positioning
-Operational efficiency so superior that your company becomes the one competitors study to understand how to win the next decade.
-
-**You get capabilities, not dependencies. You get systems that work, not just software recommendations.**
+### ⚡ The Growth Constraint
+Your revenue growth hits a ceiling because management inefficiency prevents your team from focusing on what drives results: customer acquisition, strategic partnerships, and market expansion.
 
 ---
 
-## Three Paths to Operational Dominance
+## What the Revenue Growth Efficiency Assessment Reveals
 
-### 🔍 The AI Spark Session (4 Hour Intensive)
-**This is your accessible, high-value entry point — the beginning of competitive advantage.**
+**Our 5-minute assessment identifies exactly where your management team's revenue potential is being trapped—with immediate, actionable insights based on 200+ successful efficiency transformations.**
 
-**Timeline:** 2-hour critical process mapping alongside company partner followed by 2-hour solution showcase with larger team
+### 🎯 Revenue Generation Time Analysis
+Discover what percentage of your management team's time actually drives revenue vs. gets consumed by administrative tasks.
 
-- Rapid bottleneck identification in your critical processes
-- AI optimization concepts for immediate implementation  
-- "Breakthrough Plan" with ROI projections and next steps
+### 📊 Growth Bottleneck Identification
+Pinpoint the specific operational inefficiencies that prevent your team from executing on strategic growth initiatives.
 
-*Perfect for: Testing the waters and identifying your highest-leverage opportunities*
+### 💡 Immediate Unlock Opportunities
+Get concrete recommendations for freeing up management capacity to focus on revenue-generating activities.
 
-### 📋 The AI Efficiency Blueprint (3-Month Engagement)
-**Your strategic foundation for systematic transformation**
+### 🚀 Revenue Growth Potential Calculation
+Understand the financial impact of optimizing your management team's focus on growth-driving work.
 
-- Complete operational audit and bottleneck analysis
-- Custom AI Blueprint with implementation roadmap
-- Deployment of high-value workflows
-- Weekly working sessions and progress tracking
+**Take the assessment now and get your personalized Revenue Growth Efficiency Report—completely confidential, no sales pitch.**
 
-*Perfect for: Companies ready to systematically eliminate administrative burden*
-
-### 🚀 The Complete AI Operating System (4-Month Partnership)
-**Comprehensive transformation where efficiency becomes your market advantage**
-
-- All Blueprint deliverables plus full system deployment
-- Custom AI engines for proposals, contracts, and documentation
-- On-site implementation and team training
-- Leadership handoff with long-term adoption support
-
-*Perfect for: Market leaders ready to set the standard others will follow*
+[Get My Revenue Growth Report](#assessmentIntro){ .md-button }
 
 ---
 
-## What Operational Excellence Actually Looks Like
+## When Management Teams Focus on Revenue Instead of Admin
 
-**This isn't about automation. It's about amplification.**
+**This isn't about working harder. It's about systematic optimization that frees your best people to drive growth.**
 
-| Current State | Systematic Solution | Your New Reality |
+| Current Reality | After Optimization | Revenue Impact |
 |--------|--------|---------|
-| **"Team spends hours on routine documents"** | **AI Document Engine trained on your best work** | Professional outputs generated in minutes, quality maintained |
-| **"Strategic decisions take forever"** | **Business Intelligence System with full context** | Faster, better-informed decisions using your company's collective knowledge |
-| **"Senior review creates delays"** | **Automated quality control and workflow systems** | Leadership focuses on strategy, not routine approvals |
-| **"We can't handle more volume"** | **Amplified team throughput** | Increased capacity without increasing headcount |
+| **"Management buried in routine approvals"** | **Automated approval workflows with exception-only escalation** | Senior leaders focus on strategic partnerships and growth initiatives |
+| **"Growth projects delayed by operational tasks"** | **AI-assisted operational systems handling routine work** | Faster execution on revenue-generating strategic initiatives |
+| **"Directors handling work junior staff could do"** | **Systematic knowledge transfer and process elevation** | Management capacity redirected to customer acquisition and expansion |
+| **"Can't scale without adding management overhead"** | **Amplified management throughput through intelligent systems** | Revenue growth without proportional management cost increases |
 
 ---
 
-## Real Results from Operational Transformation
+## Real Results from Revenue-Focused Management Optimization
 
 > *"Erik brings together AI knowledge, data skills, product thinking, and coding abilities - a combo that's super hard to find. I couldn't recommend him more."*
 > 
@@ -125,118 +105,151 @@ Operational efficiency so superior that your company becomes the one competitors
 
 ---
 
-## How Systematic Transformation Works
+## Three Paths to Revenue-Focused Management Optimization
 
-### Phase 1: Operational Archaeology (Weeks 1-2)
-Deep audit of your current processes, identifying where administrative toil consumes your team's productive capacity. Map the bottlenecks that truly constrain growth.
+### 🔍 The Revenue Growth Efficiency Assessment (5 Minutes)
+**Your starting point for understanding trapped revenue potential**
 
-### Phase 2: System Architecture & Business Intelligence (Weeks 3-6)  
-Design and build AI-powered systems for your highest-impact processes. Custom engines that maintain quality while eliminating manual work. Create your comprehensive "business brain" for faster, better-informed strategic decisions.
+- Immediate analysis of where management time gets trapped in admin work
+- Personalized Revenue Growth Efficiency Report with specific recommendations  
+- Confidential results with no sales pitch—just actionable insights
 
-### Phase 3: Implementation & Training (Weeks 7-12)
-Deploy systems with your team, ensuring adoption and measuring throughput improvements. Your people focus on revenue-generating work, not administrative tasks.
+*Perfect for: Understanding your current management efficiency and revenue unlock potential*
 
-### Phase 4: Competitive Advantage (Ongoing)
-Your operational efficiency becomes a market differentiator. Attract better talent, win more business, and set the standard your industry follows.
+[Take Your Assessment Now](#assessmentIntro){ .md-button }
 
-**No maintenance contracts. No ongoing dependencies. Just systems that work.**
+### 📋 The Management Liberation Blueprint (3-Month Engagement)
+**Systematic approach to freeing management for revenue generation**
+
+- Complete management workflow audit and bottleneck analysis
+- Custom AI-powered systems for routine management tasks
+- Weekly implementation sessions focused on revenue impact
+- Management capacity reallocation plan for growth initiatives
+
+*Perfect for: Companies ready to systematically optimize management focus on revenue*
+
+### 🚀 The Complete Revenue Growth Operating System (4-Month Partnership)
+**Comprehensive transformation where management efficiency drives market advantage**
+
+- All Blueprint deliverables plus full system deployment
+- Custom AI engines for management workflows and decision support
+- On-site implementation and leadership training
+- Strategic handoff with revenue growth measurement framework
+
+*Perfect for: Market leaders ready to turn management efficiency into competitive advantage*
 
 ---
 
-## Experience the Methodology First-Hand
+## How Revenue-Focused Management Transformation Works
 
-### The Operational Excellence Workshop: From Administrative Burden to Competitive Weapon
+### Phase 1: Revenue Opportunity Analysis (Weeks 1-2)
+Deep audit of how your management team's time is allocated, identifying where administrative burden prevents focus on revenue-generating activities.
 
-**2 2-Hour Interactive Sessions for Business Leaders Ready to Eliminate Toil**
+### Phase 2: Management Liberation Systems (Weeks 3-6)  
+Design and build AI-powered systems that handle routine management tasks, freeing your leaders to focus on growth initiatives, strategic partnerships, and customer expansion.
 
-Before committing to full operational transformation, experience the methodology that's helping companies turn efficiency into competitive advantage.
+### Phase 3: Revenue-Focused Implementation (Weeks 7-12)
+Deploy systems with your management team, measuring the increase in time allocated to revenue-driving activities and tracking business growth impact.
 
-#### What You'll Build through the process:
+### Phase 4: Sustainable Growth Advantage (Ongoing)
+Your management efficiency becomes a competitive differentiator—faster strategic execution, better customer relationships, and accelerated revenue growth.
 
-**🔍 Process Bottleneck Analysis**
-- Map an administrative task consuming your team's productive capacity
-- Identify which processes are truly strategic vs. routine operational work
-- Calculate the hidden cost of operational inefficiency
+**No maintenance contracts. No ongoing dependencies. Just systems that free your management team to drive revenue.**
 
-**🧭 Your Business Intelligence Foundation**
-- Build the beginning of your "business brain"—a centralized context system for better AI-assisted decision-making
-- See how comprehensive business context dramatically improves strategic thinking
-- Learn to structure your company's knowledge for systematic competitive advantage
+---
 
-**⚙️ Implementation Roadmap**
-- Assess your readiness for systematic transformation
-- Prioritize your highest-ROI automation opportunities
-- Get a clear path from "administrative burden" to "competitive weapon"
+## Start with Your Revenue Growth Efficiency Assessment
 
-#### Workshop Takeaways:
-- **Operational Excellence Audit** with bottleneck analysis and ROI projections
-- **Ready-to-Deploy AI Workflow** for immediate process improvements
+### Discover Where Your Management Team's Revenue Potential Is Trapped
+
+**5-minute assessment that reveals exactly how administrative burden constrains your growth**
+
+Before exploring systematic optimization, understand your current management efficiency and revenue unlock potential with our proven assessment framework.
+
+#### What Your Assessment Reveals:
+
+**💰 Revenue Generation Time Analysis**
+- Calculate what percentage of management time actually drives revenue
+- Identify administrative tasks consuming your leaders' strategic capacity
+- Quantify the opportunity cost of current management workflows
+
+**🎯 Growth Bottleneck Identification**
+- Pinpoint specific inefficiencies that delay revenue-generating initiatives
+- Map where management oversight creates unnecessary delays
+- Assess your readiness for revenue-focused optimization
+
+**📊 Revenue Unlock Potential**
+- Get concrete projections for management capacity reallocation
+- Understand ROI potential of systematic management optimization
+- Receive personalized recommendations for immediate revenue impact
+
+#### Assessment Benefits:
+- **Immediate Revenue Growth Efficiency Report** with specific, actionable insights
+- **Confidential results** with no sales pitch—just valuable analysis
+- **Based on 200+ successful transformations** across similar businesses
+
+[Get My Revenue Growth Efficiency Report](#assessmentIntro){ .md-button }
 
 ---
 
 ## Frequently Asked Questions
 
-### How is this different from other AI consultants?
-Most AI consultants focus on tools and tactics. We focus on systematic operational transformation. Instead of installing software, we build custom systems that eliminate administrative toil while maintaining the quality and judgment your business requires.
+### How is this different from general efficiency consulting?
+We specifically focus on management-layer bottlenecks that constrain revenue generation. Instead of generic productivity improvements, we build systems that free your leaders to focus on growth-driving activities: customer acquisition, strategic partnerships, and market expansion.
 
-### What if we're already using AI tools?
-Perfect. You understand the potential but may be stuck with point solutions. We help you evolve from AI users to companies with AI-powered operational systems—comprehensive transformation that amplifies throughput across your entire organization.
+### What if our management team is already productive?
+Productive management teams often have the highest revenue unlock potential. If your leaders are effective but stretched thin, systematic optimization can dramatically amplify their impact on growth without requiring them to work more hours.
 
-### How quickly will we see results?
-Most companies report measurable reduction in administrative burden within 4-6 weeks. Strategic decision-making improvements often appear even faster—within 2-3 weeks as your business intelligence system comes online. Full transformation typically shows 25-50% throughput improvements by month 3, with compound effects as systems mature.
-
-### How does this help with strategic decision-making?
-We build what's essentially a "business brain"—a comprehensive AI system that knows your company's goals, values, competitive landscape, team strengths, and operational constraints. When facing strategic choices, you can get AI-assisted analysis that draws from your company's full context, not just generic business advice. It's like having your entire organization's knowledge available for every important decision.
+### How quickly will we see revenue impact?
+Most companies report management teams refocusing on growth initiatives within 4-6 weeks. Revenue impact typically becomes measurable within 2-3 months as systematic changes compound. Full transformation often shows 25-50% increase in management capacity allocated to revenue-generating work.
 
 ### What size business is this right for?
-We work with operationally-minded companies, typically \$2M-$50M revenue, where administrative inefficiency constrains growth. Large enough to have real process complexity, successful enough to invest in systematic solutions.
+We work with successful companies, typically $1M-$20M revenue, where management teams are capable but constrained by administrative burden. Large enough to have real management complexity, successful enough to invest in systematic revenue optimization.
 
-### Do you work with our existing systems?
-Absolutely. We build on your current infrastructure rather than replacing it. Our systems integrate with your existing tools while eliminating the manual work that slows everything down.
+### How does the assessment work?
+Our 5-minute Revenue Growth Efficiency Assessment analyzes your management workflows, administrative burden, and revenue focus allocation. You receive an immediate, personalized report with specific recommendations—completely confidential with no sales pitch.
 
-### How does this work with existing AI tools?
-We help you evolve from AI users to companies with AI-powered operational systems. Our approach is comprehensive and transformative, not just point solutions.
+### Do you guarantee results?
+Absolutely. Complete satisfaction or pay only what the engagement has been worth to you. You are the sole arbiter. We're confident in our methodology because it's based on 200+ successful transformations.
 
 ---
 
-## Ready to Turn Operational Excellence Into Market Dominance?
+## Ready to Unlock Your Management Team's Revenue Potential?
 
-**Stop letting administrative toil constrain your growth. Start building the operational advantage your competitors won't be able to replicate.**
+**Stop letting administrative burden constrain your growth. Start freeing your management team to focus on what drives revenue.**
 
-This is more than consulting. It's an opportunity to install operational systems that turn efficiency into your decisive competitive weapon.
+This is your opportunity to systematically optimize management efficiency and turn that optimization into measurable revenue growth.
 
 ### What Happens Next:
-1. **Operational Assessment** - We audit where administrative toil constrains your team's capacity
-2. **System Architecture** - Design AI-powered solutions for your highest-impact processes  
-3. **Implementation Partnership** - Deploy systems that amplify throughput without compromising quality
-4. **Market Leadership** - Your operational excellence becomes the standard others study
+1. **Take the Assessment** - 5-minute Revenue Growth Efficiency Assessment with immediate results
+2. **Get Your Report** - Personalized analysis of revenue unlock potential with specific recommendations
+3. **Strategic Conversation** - If you want to explore systematic optimization, we'll discuss your growth goals
+4. **Revenue-Focused Implementation** - Deploy systems that free management to drive growth
 
-[Book Your Operational Assessment](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
+[Take Your Revenue Growth Efficiency Assessment](#assessmentIntro){ .md-button }
 
-*We'll assess your current operational efficiency, identify your highest-ROI automation opportunities, and design systems that eliminate administrative burden while amplifying your team's productive capacity.*
+*Discover exactly where your management team's revenue potential is being trapped and get immediate, actionable recommendations for unlocking growth.*
 
 ---
 
-## The Strategic Shift That Separates Market Leaders
+## The Strategic Advantage: Management Teams That Drive Revenue
 
-Most companies optimize for efficiency. Smart ones optimize for effectiveness. But the smartest ones optimize for **systematic intelligence amplification**—the ability to eliminate operational toil while accelerating strategic decision-making using their organization's collective knowledge.
+Most companies optimize management for efficiency. Smart ones optimize for effectiveness. But the smartest ones optimize for **systematic revenue generation**—management teams systematically freed from administrative burden to focus on growth.
 
-This creates what we call the "democratization of execution"—smaller companies can now implement sophisticated processes and make strategic decisions with the same quality and speed as much larger enterprises.
+This creates what we call "revenue-focused management"—where your leaders' time directly correlates with business growth because systems handle the operational work that previously consumed their strategic capacity.
 
-You get capabilities, not dependencies. You get systems that deliver results, not just software. You get competitive advantage that compounds over time, not just operational relief.
+**Your choice: Let administrative burden constrain your management team's revenue impact, or build systems that amplify their focus on growth.**
 
-**Your choice: Let administrative burden and slow decision-making constrain your growth, or build intelligent systems that become your market weapon.**
-
-[Book Your Operational Assessment](https://savvycal.com/hello-from-erik/strategic-ai-review){ .md-button }
+[Unlock Your Revenue Growth Potential](#assessmentIntro){ .md-button }
 
 ---
 
 ### About Erik Schwartz
 
-After 25 years in software and product strategy, Erik recognized that the biggest constraint in growing businesses isn't strategy or talent—it's operational inefficiency that prevents teams from focusing on revenue-generating work.
+After 25 years in software and product strategy, Erik recognized that the biggest constraint in growing businesses isn't strategy or talent—it's management teams trapped in administrative work instead of driving revenue.
 
-**Our Mission:** Help operationally-minded companies eliminate administrative toil and amplify team throughput through systematic AI implementation.
+**Our Mission:** Help successful companies unlock trapped revenue potential by systematically freeing management teams to focus on growth-generating activities.
 
-**Our Approach:** Build custom AI-powered systems that maintain quality while eliminating manual work, turning operational excellence into competitive advantage.
+**Our Approach:** Build AI-powered systems that eliminate management bottlenecks, amplifying their focus on revenue generation and strategic execution.
 
 **Our Guarantee:** Complete satisfaction or pay only what the engagement has been worth to you. You are the sole arbiter.
