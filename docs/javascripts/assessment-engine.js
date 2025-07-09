@@ -160,12 +160,14 @@ window.RevenueGrowthAssessment = class {
     
     // Build navigation
     const navigationHtml = `
-      <div class="question-navigation">
-        ${index > 0 ? `<button class="nav-button" onclick="assessmentInstance.previousQuestion()">← Previous</button>` : ''}
-        ${question.optional ? `<button class="nav-button" onclick="assessmentInstance.skipQuestion()">Skip This Question</button>` : ''}
-        <button class="cta-button" id="nextButton" onclick="assessmentInstance.nextQuestion()" disabled>
-          ${index === window.ASSESSMENT_DATA.questions.length - 1 ? 'Generate Report' : 'Next Question →'}
-        </button>
+      <div class="question-navigation" style="display: flex; gap: 1rem; justify-content: space-between; align-items: center; margin-top: 2rem; flex-wrap: wrap;">
+        ${index > 0 ? `<button class="nav-button" onclick="assessmentInstance.previousQuestion()" style="background: #f5f5f5; color: #333; padding: 0.75rem 1.5rem; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; font-size: 1rem;">← Previous</button>` : '<div></div>'}
+        <div style="display: flex; gap: 1rem; align-items: center;">
+          ${question.optional ? `<button class="nav-button" onclick="assessmentInstance.skipQuestion()" style="background: #f5f5f5; color: #666; padding: 0.75rem 1.5rem; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; font-size: 1rem;">Skip This Question</button>` : ''}
+          <button class="cta-button" id="nextButton" onclick="assessmentInstance.nextQuestion()" disabled style="background: var(--md-accent-fg-color); color: white; padding: 0.75rem 1.5rem; border: none; border-radius: 4px; cursor: pointer; font-size: 1rem; opacity: 0.5;">
+            ${index === window.ASSESSMENT_DATA.questions.length - 1 ? 'Generate Report' : 'Next Question →'}
+          </button>
+        </div>
       </div>
     `;
     
@@ -288,6 +290,8 @@ window.RevenueGrowthAssessment = class {
     const nextButton = document.getElementById('nextButton');
     if (nextButton) {
       nextButton.disabled = false;
+      nextButton.style.opacity = '1';
+      nextButton.style.cursor = 'pointer';
     }
   }
   
@@ -295,6 +299,8 @@ window.RevenueGrowthAssessment = class {
     const nextButton = document.getElementById('nextButton');
     if (nextButton) {
       nextButton.disabled = true;
+      nextButton.style.opacity = '0.5';
+      nextButton.style.cursor = 'not-allowed';
     }
   }
   

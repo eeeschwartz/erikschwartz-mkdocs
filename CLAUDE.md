@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is a static site powered by MkDocs using the Material theme. The site serves as Erik Schwartz's personal blog/website and professional presence, featuring blog posts about AI and business strategy, and includes an interactive JavaScript-powered Revenue Growth Efficiency Assessment.
+This is a static site powered by MkDocs using the Material theme. The site serves as Erik Schwartz's professional presence focused on helping management teams unlock revenue potential through systematic AI implementation. Features include blog posts about AI and business strategy, and an interactive JavaScript-powered Revenue Growth Efficiency Assessment that identifies where administrative burden constrains management focus on revenue generation.
 
 ## Development Commands
 
@@ -94,10 +94,11 @@ pip install -e .
 - Form is included in blog post template automatically
 
 ### Revenue Growth Efficiency Assessment
-- **Assessment Flow**: 8 sequential questions based on business efficiency system prompt
+- **Assessment Flow**: 8 sequential questions identifying where management teams get trapped in admin work vs. revenue generation
 - **Question Types**: Multiple choice, text input, email capture, with optional revenue question
-- **Features**: Progress tracking, personalized insights, localStorage persistence, report generation
+- **Features**: Progress tracking, personalized insights, localStorage persistence, revenue unlock potential calculation
 - **Data Structure**: Questions defined in `assessment-data.js`, logic in `assessment-engine.js`
+- **Value Proposition**: Helps companies discover trapped revenue potential when management teams focus on growth instead of administrative burden
 - **Integration**: ConvertKit for lead capture, scheduling CTA for strategy sessions
 
 ## Testing and Validation
