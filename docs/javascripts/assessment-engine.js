@@ -183,9 +183,10 @@ window.RevenueGrowthAssessment = class {
         return `
           <div class="question-options">
             ${question.options.map(option => `
-              <label class="option-label">
+              <label class="option-label" style="display: block; margin: 0.75rem 0; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">
                 <input type="radio" name="question_${question.id}" value="${option.value}" 
-                       onchange="assessmentInstance.selectOption('${question.id}', '${option.value}')">
+                       onchange="assessmentInstance.selectOption('${question.id}', '${option.value}')" 
+                       style="margin-right: 0.5rem;">
                 <span class="option-text">${option.text}</span>
               </label>
             `).join('')}
