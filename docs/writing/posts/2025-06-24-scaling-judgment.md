@@ -11,7 +11,7 @@ tags:
   - "Digital Twin"
   - "Systems Thinking"
   - "Founder Bottlenecks"
-date: 2025-06-25
+date: 2025-06-24
 comments: true
 authors:
   - eeeschwartz
@@ -39,5 +39,3 @@ Even when you're not there.
 That's not delegation. That's scaling judgment.
 
 And that's how you break free from being the bottleneck in your own business.
-
-How are you scaling your judgment? 

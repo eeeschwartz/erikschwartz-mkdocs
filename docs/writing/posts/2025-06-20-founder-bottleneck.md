@@ -35,4 +35,20 @@ This isn't a people problem. It's an architecture problem.
 The solution isn't hiring more people.
 It's building systems that scale your judgment.
 
-What's the biggest decision bottleneck in your business right now? 
+What's the biggest decision bottleneck in your business right now?
+
+---
+
+## Take the Founder Bottleneck Audit
+
+Ready to get a data-driven assessment of how your leadership style is impacting your growth? 
+
+**[Take our free 5-minute Founder Bottleneck Audit →](/founder-bottleneck-audit/)**
+
+You'll get:
+- Your personalized bottleneck score across 3 key dimensions
+- Specific insights into where you're constraining growth
+- A customized action plan for scaling your decision-making
+- Estimated time cost of your current approach
+
+The assessment takes just 5 minutes and provides immediate insights you can act on today. 
