@@ -5,22 +5,9 @@ hide:
 
 # Discover How Much Revenue Your Management Team Could Unlock
 
-**Take our 5-minute Revenue Growth Efficiency Assessment and learn where capable teams get trapped doing admin work instead of driving growth—with immediate, confidential results and no sales pitch.**
+**Schedule a conversation to discover where your management team's revenue potential is being trapped and how systematic bottleneck elimination can unlock growth.**
 
-<div id="assessmentIntro">
-  <div style="background: var(--md-accent-fg-color--transparent); padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center;">
-    <h3 style="margin: 0 0 1rem 0; color: var(--md-accent-fg-color);">Revenue Growth Efficiency Assessment</h3>
-    <p style="margin: 0 0 1.5rem 0; font-size: 1.1em;">Discover where your management team's revenue potential is being trapped</p>
-    <button class="cta-button" onclick="startAssessment()" style="background: var(--md-accent-fg-color); color: white; padding: 1rem 2rem; border: none; border-radius: 4px; font-size: 1.1em; cursor: pointer;">
-      Take the Revenue Growth Efficiency Assessment
-    </button>
-    <p style="margin: 1rem 0 0 0; font-size: 0.9em; opacity: 0.8;">5 minutes • Immediate results • No sales pitch</p>
-  </div>
-</div>
-
-<div id="assessmentContainer" style="display: none;">
-  <!-- Assessment questions will be loaded here -->
-</div>
+[Schedule Your Revenue Growth Conversation](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
@@ -32,7 +19,7 @@ Your management team is capable. Your company is successful. But your best peopl
 
 Your management team's time should drive growth, not get consumed by administrative burden.
 
-[Discover Your Revenue Growth Potential](#assessmentIntro){ .md-button }
+[Schedule Your Revenue Growth Conversation](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
@@ -70,9 +57,9 @@ Get concrete recommendations for freeing up management capacity to focus on reve
 ### 🚀 Revenue Growth Potential Calculation
 Understand the financial impact of optimizing your management team's focus on growth-driving work.
 
-**Take the assessment now and get your personalized Revenue Growth Efficiency Report—completely confidential, no sales pitch.**
+**Schedule a conversation now to discover your specific revenue unlock opportunities—completely confidential, no sales pitch.**
 
-[Get My Revenue Growth Report](#assessmentIntro){ .md-button }
+[Schedule Your Revenue Growth Conversation](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
@@ -128,68 +115,77 @@ Your management team's time gets freed up because AI handles the coordination wo
 
 ---
 
-## Three Paths to Revenue-Focused Management Optimization
+## Three Ways to Work Together: From Quick Win to Complete Transformation
 
-### 🔍 The Revenue Growth Efficiency Assessment (5 Minutes)
-**Your starting point for understanding trapped revenue potential**
+*Every engagement follows the same proven methodology: **Discover your biggest bottleneck → Design the solution → Demonstrate what's possible***
 
-- Immediate analysis of where management time gets trapped in admin work
-- Personalized Revenue Growth Efficiency Report with specific recommendations  
-- Confidential results with no sales pitch—just actionable insights
+### 🎯 The Revenue Unlock Workshop (2 Half-Days)
+**See exactly what's possible with one critical bottleneck**
 
-*Perfect for: Understanding your current management efficiency and revenue unlock potential*
+**Day 1:** Partner with your team to map your most expensive management bottleneck—where admin work is costing you the most revenue potential
 
-[Take Your Assessment Now](#assessmentIntro){ .md-button }
+**Day 2:** Return with a working solution prototype and facilitate a team workshop showing exactly how AI can eliminate this bottleneck and free up management capacity
 
-### 📋 The Management Liberation Blueprint (3-Month Engagement)
-**Systematic approach to freeing management for revenue generation**
+**What You Get:**
+- One critical bottleneck eliminated with working solution
+- Clear demonstration of revenue unlock potential  
+- Team workshop showing path to broader transformation
 
-- Complete management workflow audit and bottleneck analysis
-- Custom AI-powered systems for routine management tasks
-- Weekly implementation sessions focused on revenue impact
-- Management capacity reallocation plan for growth initiatives
+*Perfect for: Testing our methodology and seeing immediate results with your biggest pain point*
 
-*Perfect for: Companies ready to systematically optimize management focus on revenue*
+### 📈 The Systematic Revenue Optimization (Twice Monthly Sessions)
+**Eliminate bottlenecks across multiple teams and processes**
 
-### 🚀 The Complete Revenue Growth Operating System (4-Month Partnership)
-**Comprehensive transformation where management efficiency drives market advantage**
+**Ongoing Partnership:** Every two weeks, we tackle a different revenue-constraining bottleneck using the same discover-design-demonstrate process
 
-- All Blueprint deliverables plus full system deployment
-- Custom AI engines for management workflows and decision support
-- On-site implementation and leadership training
-- Strategic handoff with revenue growth measurement framework
+**What You Get:**
+- 6-12 different bottlenecks systematically eliminated over 3-6 months
+- Cross-team AI solutions that create unified intelligence
+- Progressive transformation with measurable revenue impact
+- Team training and adoption support throughout
 
-*Perfect for: Market leaders ready to turn management efficiency into competitive advantage*
+*Perfect for: Companies ready to systematically transform how their management teams operate*
 
----
+### 🚀 The Complete Intelligence Transformation (Weekly Partnership)
+**Deep business analysis with intensive bottleneck elimination**
 
-## How Revenue-Focused Management Transformation Works
+**Intensive Collaboration:** Weekly sessions combining bottleneck elimination with comprehensive business intelligence analysis and strategic AI implementation
 
-### Phase 1: Revenue Opportunity Analysis (Weeks 1-2)
-Deep audit of how your management team's time is allocated, identifying where administrative burden prevents focus on revenue-generating activities.
+**What You Get:**
+- Complete operational analysis across all departments
+- Weekly bottleneck elimination with immediate solutions
+- Custom AI systems that unify your entire business intelligence
+- Leadership training and strategic handoff
+- Measurable transformation of management efficiency into competitive advantage
 
-### Phase 2: Management Liberation Systems (Weeks 3-6)  
-Design and build AI-powered systems that handle routine management tasks, freeing your leaders to focus on growth initiatives, strategic partnerships, and customer expansion.
-
-### Phase 3: Revenue-Focused Implementation (Weeks 7-12)
-Deploy systems with your management team, measuring the increase in time allocated to revenue-driving activities and tracking business growth impact.
-
-### Phase 4: Sustainable Growth Advantage (Ongoing)
-Your management efficiency becomes a competitive differentiator—faster strategic execution, better customer relationships, and accelerated revenue growth.
-
-**No maintenance contracts. No ongoing dependencies. Just systems that free your management team to drive revenue.**
+*Perfect for: Market leaders ready to create an operating model competitors can't replicate*
 
 ---
 
-## Start with Your Revenue Growth Efficiency Assessment
+## How Every Engagement Works: The Bottleneck Elimination Process
+
+### Step 1: Discover the Bottleneck (Half-Day Pairing)
+Work directly with your team to identify where management time gets trapped in administrative work instead of revenue generation.
+
+### Step 2: Design the Solution (Behind-the-Scenes)
+Analyze the bottleneck and create a working AI-powered solution that eliminates the administrative burden while maintaining quality.
+
+### Step 3: Demonstrate What's Possible (Team Workshop)
+Return with a functioning prototype and facilitate a workshop showing your team exactly how this transforms their capacity to focus on revenue.
+
+**This process repeats for each bottleneck, creating systematic transformation that compounds over time.**
+
+---
+
+## Start with a Revenue Growth Conversation
 
 ### Discover Where Your Management Team's Revenue Potential Is Trapped
 
-**5-minute assessment that reveals exactly how administrative burden constrains your growth**
+**Strategic conversation that reveals exactly how administrative burden constrains your growth**
 
-Before exploring systematic optimization, understand your current management efficiency and revenue unlock potential with our proven assessment framework.
+Before we dive into bottleneck elimination, let's understand your current management efficiency and revenue unlock potential through a focused discussion.
 
-#### What Your Assessment Reveals:
+#### What Our Conversation Reveals:
 
 **💰 Revenue Generation Time Analysis**
 - Calculate what percentage of management time actually drives revenue
@@ -199,41 +195,47 @@ Before exploring systematic optimization, understand your current management eff
 **🎯 Growth Bottleneck Identification**
 - Pinpoint specific inefficiencies that delay revenue-generating initiatives
 - Map where management oversight creates unnecessary delays
-- Assess your readiness for revenue-focused optimization
+- Assess your readiness for systematic bottleneck elimination
 
 **📊 Revenue Unlock Potential**
 - Get concrete projections for management capacity reallocation
-- Understand ROI potential of systematic management optimization
-- Receive personalized recommendations for immediate revenue impact
+- Understand ROI potential of systematic transformation
+- Receive personalized recommendations for your first bottleneck to tackle
 
-#### Assessment Benefits:
-- **Immediate Revenue Growth Efficiency Report** with specific, actionable insights
-- **Confidential results** with no sales pitch—just valuable analysis
-- **Based on 200+ successful transformations** across similar businesses
+#### Conversation Benefits:
+- **Immediate insights** about your specific revenue unlock opportunities
+- **Confidential discussion** with no sales pitch—just valuable analysis
+- **Clear next steps** for beginning your bottleneck elimination journey
 
-[Get My Revenue Growth Efficiency Report](#assessmentIntro){ .md-button }
+[Schedule Your Revenue Growth Conversation](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
 ## Frequently Asked Questions
 
-### How is this different from general efficiency consulting?
-We specifically focus on management-layer bottlenecks that constrain revenue generation. Instead of generic productivity improvements, we build systems that free your leaders to focus on growth-driving activities: customer acquisition, strategic partnerships, and market expansion.
+### How does the bottleneck elimination process work?
+Every engagement follows the same proven methodology: we partner with your team to discover your most expensive management bottleneck, design a working AI solution, then demonstrate exactly what's possible through a team workshop. For ongoing engagements, we repeat this process across different bottlenecks and teams.
 
-### What if our management team is already productive?
-Productive management teams often have the highest revenue unlock potential. If your leaders are effective but stretched thin, systematic optimization can dramatically amplify their impact on growth without requiring them to work more hours.
+### What makes this different from other AI consulting?
+Most AI consultants focus on tools and tactics. We focus on systematic bottleneck elimination with immediate, tangible results. You see working solutions during our partnership, not just recommendations. Each engagement produces actual AI systems that free up management capacity.
 
-### How quickly will we see revenue impact?
-Most companies report management teams refocusing on growth initiatives within 4-6 weeks. Revenue impact typically becomes measurable within 2-3 months as systematic changes compound. Full transformation often shows 25-50% increase in management capacity allocated to revenue-generating work.
+### How quickly will we see results?
+The Revenue Unlock Workshop shows immediate results—you'll see a working solution to your biggest bottleneck within two half-days. For ongoing engagements, most companies report measurable management capacity improvements within 2-3 weeks as each bottleneck gets systematically eliminated.
+
+### What if we start small and want to expand?
+Perfect. The Revenue Unlock Workshop is designed to demonstrate our methodology and show what's possible. Many clients start there, see the results, then move to systematic optimization or intensive transformation based on their experience.
 
 ### What size business is this right for?
-We work with successful companies, typically $1M-$20M revenue, where management teams are capable but constrained by administrative burden. Large enough to have real management complexity, successful enough to invest in systematic revenue optimization.
+We work with successful companies, typically $1M-$20M revenue, where management teams are capable but constrained by administrative bottlenecks. Large enough to have real process complexity, successful enough to invest in systematic solutions.
 
-### How does the assessment work?
-Our 5-minute Revenue Growth Efficiency Assessment analyzes your management workflows, administrative burden, and revenue focus allocation. You receive an immediate, personalized report with specific recommendations—completely confidential with no sales pitch.
+### Do you work with our existing systems?
+Absolutely. Our bottleneck elimination process builds on your current infrastructure rather than replacing it. We create AI solutions that integrate with your existing tools while eliminating the management overhead that slows everything down.
+
+### How do we know which bottleneck to tackle first?
+That's exactly what we discover together in the first half-day of every engagement. We work with your team to identify where administrative burden is costing you the most revenue potential, ensuring we start with your highest-impact opportunity.
 
 ### Do you guarantee results?
-Absolutely. Complete satisfaction or pay only what the engagement has been worth to you. You are the sole arbiter. We're confident in our methodology because it's based on 200+ successful transformations.
+Absolutely. Complete satisfaction or pay only what the engagement has been worth to you. You are the sole arbiter. We're confident in our methodology because every engagement produces working solutions you can see and experience immediately.
 
 ---
 
@@ -244,12 +246,12 @@ Absolutely. Complete satisfaction or pay only what the engagement has been worth
 This is your opportunity to systematically optimize management efficiency and turn that optimization into measurable revenue growth.
 
 ### What Happens Next:
-1. **Take the Assessment** - 5-minute Revenue Growth Efficiency Assessment with immediate results
-2. **Get Your Report** - Personalized analysis of revenue unlock potential with specific recommendations
-3. **Strategic Conversation** - If you want to explore systematic optimization, we'll discuss your growth goals
-4. **Revenue-Focused Implementation** - Deploy systems that free management to drive growth
+1. **Schedule a Conversation** - Strategic discussion about your management team's revenue potential
+2. **Get Your Analysis** - Personalized insights about revenue unlock opportunities with your biggest bottlenecks identified
+3. **Choose Your Path** - Start with the Revenue Unlock Workshop or dive into systematic transformation
+4. **See Working Solutions** - Experience our bottleneck elimination methodology with tangible, immediate results
 
-[Take Your Revenue Growth Efficiency Assessment](#assessmentIntro){ .md-button }
+[Schedule Your Revenue Growth Conversation](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 *Discover exactly where your management team's revenue potential is being trapped and get immediate, actionable recommendations for unlocking growth.*
 
@@ -263,7 +265,7 @@ This creates what we call "revenue-focused management"—where your leaders' tim
 
 **Your choice: Let administrative burden constrain your management team's revenue impact, or build systems that amplify their focus on growth.**
 
-[Unlock Your Revenue Growth Potential](#assessmentIntro){ .md-button }
+[Schedule Your Revenue Growth Conversation](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
