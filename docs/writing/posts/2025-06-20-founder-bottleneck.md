@@ -39,12 +39,6 @@ What's the biggest decision bottleneck in your business right now?
 
 ---
 
-## Take the Founder Bottleneck Audit
-
-Ready to get a data-driven assessment of how your leadership style is impacting your growth? 
-
-**[Take our free 5-minute Founder Bottleneck Audit →](/founder-bottleneck-audit/)**
-
 You'll get:
 - Your personalized bottleneck score across 3 key dimensions
 - Specific insights into where you're constraining growth
