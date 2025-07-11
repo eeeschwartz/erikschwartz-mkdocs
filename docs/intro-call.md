@@ -1,5 +1,8 @@
 ---
-title: Redirecting...
+title: Redirect
+hide:
+  - navigation
+  - toc
 ---
 
 <script>

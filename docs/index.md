@@ -61,7 +61,7 @@ When you systematically redirect 2-5 hours of management time from administrativ
 
 ## What Our Leadership Efficiency Audit Reveals
 
-**Our structured assessment identifies exactly where your leadership capacity is being trapped—with immediate, actionable insights based on 200+ management optimization projects.**
+**Our structured assessment identifies exactly where your leadership capacity is being trapped—with immediate, actionable insights.**
 
 *This isn't a sales call with a fancy name. It's a real diagnostic process that delivers specific insights about your management capacity constraints.*
 

@@ -126,6 +126,8 @@ markdown_extensions:
 #   - Job Board: "https://jobs.applied-llms.org"
 #   - Writing:
 #     - "writing/index.md"
+not_in_nav: |
+  intro-call.md
 plugins:
 #   - social
 #   - rss:
