@@ -143,9 +143,6 @@ plugins:
 #             allow_inspection: true
 #             show_bases: true
   - macros
-  - redirects:
-      redirect_maps:
-        'intro-call/': 'https://savvycal.com/hello-from-erik/irl'
   - blog:
       enabled: !ENV CI
       blog_dir: writing

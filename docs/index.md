@@ -5,9 +5,9 @@ hide:
 
 # When Your Management Team Becomes Your Growth Constraint
 
-**Does it feel like your best people are drowning in busywork while growth opportunities slip by? Schedule a Management Capacity Diagnostic to discover exactly where your leadership team's potential is being trapped.**
+**Does it feel like your best people are drowning in busywork while growth opportunities slip by? Schedule a Leadership Efficiency Audit to discover exactly where your leadership team's potential is being trapped.**
 
-[Schedule Your Management Capacity Diagnostic](https://savvycal.com/hello-from-erik/irl){ .md-button }
+[Schedule Your Leadership Efficiency Audit](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
@@ -33,35 +33,33 @@ You hired great people. Your directors and VPs are capable leaders. But instead 
 
 And while your competitors struggle with the same management bottlenecks, there's a rare opportunity for operationally-smart companies to amplify their leadership capacity and leave everyone else behind.
 
-[Schedule Your Management Capacity Diagnostic](https://savvycal.com/hello-from-erik/irl){ .md-button }
+[Schedule Your Leadership Efficiency Audit](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
-## The $75,000 Misallocation Problem
+## The 2-5 Hour Weekly Opportunity
 
-**Let's get specific about what management bottlenecks actually cost you:**
+**Here's what's really happening: Your directors spend 2-5 hours per week on routine administrative tasks that could be systematized. That's not the problem—it's the opportunity.**
 
-Your director-level employee costs \$150,000 fully loaded. If they spend 20 hours per week on administrative tasks (approvals, status updates, coordination meetings), that's **$75,000 annually in misallocated executive capacity** (50% of their total cost).
+Those 2-5 hours represent your **highest-leverage growth time**. When a director-level person redirects even 3 hours weekly from administrative overhead to market expansion, strategic partnerships, or customer development, the revenue impact compounds exponentially.
 
-Multiply that across your management team. A company with 4 director-level people spending half their time on admin work is **burning $300,000 per year** on executive busywork instead of revenue generation.
+**The real opportunity isn't saving salary costs—it's amplifying your leadership team's focus on activities that directly drive market growth.**
 
-**But the real cost isn't the salary waste—it's the growth opportunities that never happen because your best people can't focus on what matters.**
+### The Market Expansion Multiplier
 
-### The Revenue Opportunity Cost
+When you systematically redirect 2-5 hours of management time from administrative tasks to market-facing activities:
 
-When management teams focus on growth instead of administration:
+- **Strategic partnerships accelerate** because your directors have capacity to identify and pursue high-value opportunities
 
-- **Customer acquisition accelerates** because leaders can focus on strategic partnerships and market expansion
+- **Customer development deepens** because leaders can focus on understanding market needs and competitive positioning
 
-- **Product development speeds up** because decisions happen faster without administrative delays
+- **Revenue initiatives execute faster** because management attention goes to growth drivers instead of operational coordination
 
-- **Team performance improves** because managers have capacity for coaching and development
-
-- **Strategic initiatives actually get executed** instead of getting delayed by operational overhead
+- **Market expansion becomes systematic** because your best people can focus on scaling what works
 
 ---
 
-## What Our Management Capacity Diagnostic Reveals
+## What Our Leadership Efficiency Audit Reveals
 
 **Our structured assessment identifies exactly where your leadership capacity is being trapped—with immediate, actionable insights based on 200+ management optimization projects.**
 
@@ -91,7 +89,7 @@ When management teams focus on growth instead of administration:
 
 - Get specific recommendations for your highest-impact capacity optimization
 
-### 📋 Your Management Capacity Report
+### 📋 Your Leadership Efficiency Report
 You'll receive a detailed analysis including:
 
 - **Executive Time Audit:** Where your leadership hours actually go vs. where they should go
@@ -102,9 +100,9 @@ You'll receive a detailed analysis including:
 
 - **ROI Projections:** Expected impact of systematic management optimization
 
-**This diagnostic process typically reveals 15-25 hours per week of recoverable management capacity per executive.**
+**This audit process typically reveals 2-5 hours per week of recoverable management capacity per executive.**
 
-[Schedule Your Management Capacity Diagnostic](https://savvycal.com/hello-from-erik/irl){ .md-button }
+[Schedule Your Leadership Efficiency Audit](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
@@ -170,7 +168,7 @@ Your management team's effectiveness multiplies because systems handle the coord
 
 *Every engagement follows the same proven methodology: **Discover your biggest constraint → Design the amplification system → Demonstrate what's possible***
 
-**WHO THIS IS FOR:** Scaling companies (10-50 employees) where capable management teams are constrained by administrative overhead instead of driving growth.
+**WHO THIS IS FOR:** Scaling companies (10-250 employees) where capable management teams are constrained by administrative overhead instead of driving growth.
 
 **WHO THIS ISN'T FOR:** Early-stage startups without management layers, large enterprises with dedicated operations teams, or companies looking for generic efficiency improvements.
 
@@ -244,13 +242,13 @@ Return with a functioning amplification system and facilitate a workshop showing
 
 ---
 
-## Start with a Management Capacity Diagnostic
+## Start with a Leadership Efficiency Audit
 
 ### Discover Where Your Leadership Team's Growth Potential Is Trapped
 
-**Strategic diagnostic that reveals exactly how administrative overhead constrains your management team's ability to drive revenue**
+**Strategic audit that reveals exactly how administrative overhead constrains your management team's ability to drive revenue**
 
-#### What Our Diagnostic Reveals:
+#### What Our Audit Reveals:
 
 **🎯 Executive Time Allocation Analysis**
 
@@ -276,9 +274,9 @@ Return with a functioning amplification system and facilitate a workshop showing
 
 - Receive personalized recommendations for your highest-impact management constraint to eliminate first
 
-#### Diagnostic Deliverables:
+#### Audit Deliverables:
 
-- **Management Capacity Report** with specific time allocation analysis and constraint identification
+- **Leadership Efficiency Report** with specific time allocation analysis and constraint identification
 
 - **Bottleneck Priority Matrix** showing which constraints to eliminate first for maximum growth impact
 
@@ -286,7 +284,7 @@ Return with a functioning amplification system and facilitate a workshop showing
 
 - **Immediate action recommendations** for beginning your management optimization journey
 
-[Schedule Your Management Capacity Diagnostic](https://savvycal.com/hello-from-erik/irl){ .md-button }
+[Schedule Your Leadership Efficiency Audit](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
@@ -305,7 +303,7 @@ The Management Capacity Workshop shows immediate results—you'll see a working 
 Perfect. The Management Capacity Workshop is designed to demonstrate our methodology and show what's possible with your biggest constraint. Many clients start there, see the results, then move to systematic optimization or intensive amplification based on their experience.
 
 ### What size business is this right for?
-We work with scaling companies, typically 10-50 employees with established management layers, where capable leadership teams are constrained by administrative overhead. Large enough to have real management complexity, successful enough to invest in systematic amplification.
+We work with scaling companies, typically 10-250 employees with established management layers, where capable leadership teams are constrained by administrative overhead. Large enough to have real management complexity, successful enough to invest in systematic amplification.
 
 ### Do you work with our existing systems?
 Absolutely. Our amplification process builds on your current infrastructure rather than replacing it. We create AI-powered systems that integrate with your existing tools while eliminating the management overhead that constrains strategic focus.
@@ -325,12 +323,12 @@ Absolutely. Complete satisfaction or pay only what the engagement has been worth
 This is your opportunity to systematically amplify management effectiveness and turn that amplification into measurable growth acceleration.
 
 ### What Happens Next:
-1. **Schedule Your Diagnostic** - Strategic assessment of your management team's capacity constraints
+1. **Schedule Your Audit** - Strategic assessment of your management team's capacity constraints
 2. **Get Your Analysis** - Detailed insights about amplification opportunities with your biggest bottlenecks identified
 3. **Choose Your Path** - Start with the Management Capacity Workshop or dive into systematic amplification
 4. **See Working Solutions** - Experience our constraint elimination methodology with tangible, immediate results
 
-[Schedule Your Management Capacity Diagnostic](https://savvycal.com/hello-from-erik/irl){ .md-button }
+[Schedule Your Leadership Efficiency Audit](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 *Discover exactly where your management team's growth potential is being trapped and get immediate, actionable recommendations for amplifying their focus on revenue.*
 
@@ -344,7 +342,7 @@ This creates what we call "amplified management"—where your leaders' impact sc
 
 **Your choice: Let administrative overhead constrain your management team's growth impact, or build systems that amplify their focus on revenue.**
 
-[Schedule Your Management Capacity Diagnostic](https://savvycal.com/hello-from-erik/irl){ .md-button }
+[Schedule Your Leadership Efficiency Audit](https://savvycal.com/hello-from-erik/irl){ .md-button }
 
 ---
 
