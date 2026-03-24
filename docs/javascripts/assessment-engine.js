@@ -372,7 +372,7 @@ window.RevenueGrowthAssessment = class {
           <div class="next-steps">
             <h4>Next Steps:</h4>
             <p>This gives you the overview of your efficiency opportunities. For implementation guidance and systematic transformation, consider scheduling a strategic consultation.</p>
-            <button class="cta-button" onclick="window.open('https://savvycal.com/hello-from-erik/strategic-ai-review', '_blank')">
+            <button class="cta-button" onclick="window.open('/calendar/', '_blank')">
               Schedule Strategy Session
             </button>
           </div>

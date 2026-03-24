@@ -6,11 +6,11 @@ hide:
 ---
 
 <script>
-window.location.href = "https://savvycal.com/hello-from-erik/irl";
+window.location.href = "/calendar/";
 </script>
 
-<meta http-equiv="refresh" content="0; url=https://savvycal.com/hello-from-erik/irl">
+<meta http-equiv="refresh" content="0; url=/calendar/">
 
 # Redirecting...
 
-If you are not automatically redirected, [click here to schedule your Leadership Efficiency Audit](https://savvycal.com/hello-from-erik/irl).
+If you are not automatically redirected, [click here to schedule a conversation](/calendar/).
