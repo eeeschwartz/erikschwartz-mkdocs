@@ -4,106 +4,56 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is a static site powered by MkDocs using the Material theme. The site serves as Erik Schwartz's professional presence focused on helping management teams unlock revenue potential through systematic AI implementation. Features include blog posts about AI and business strategy, and an interactive JavaScript-powered Revenue Growth Efficiency Assessment that identifies where administrative burden constrains management focus on revenue generation.
+Static site powered by Astro with Tailwind CSS. Erik Schwartz's professional presence as a strategic AI partner for founders and leaders. Clean, minimal design (Inter + Newsreader fonts, stone color palette).
 
 ## Development Commands
 
-### Local Development
 ```bash
-# Start local development server (includes form copying)
-make serve
+# Install dependencies
+npm ci
 
-# Copy ConvertKit form to overrides (standalone)
-make copy-form
-```
+# Start local development server
+npx astro dev
 
-### Building
-```bash
-# Build for production/CI (includes form copying)
-make build
-```
+# Build for production
+npx astro build
 
-### Package Management
-```bash
-# Install dependencies (choose one approach)
-pip install -r requirements-doc.txt
-# OR using pyproject.toml
-pip install -e .
+# Preview production build
+npx astro preview
 ```
 
 ## Project Architecture
 
 ### Core Structure
-- **MkDocs Configuration**: `mkdocs.yml` - Main site configuration with Material theme
-- **Content**: `docs/` - All markdown content including blog posts and static pages
-- **Templates**: `overrides/` - Custom MkDocs theme overrides and templates
-- **Build System**: `Makefile` - Handles form copying and build commands
+- **Astro Config**: `astro.config.mjs` - Site config, Tailwind plugin
+- **Pages**: `src/pages/` - Astro page components (index, calendar)
+- **Layouts**: `src/layouts/Layout.astro` - Shared layout with nav/footer
+- **Styles**: `src/styles/global.css` - Tailwind imports and theme config
+- **Static Assets**: `public/` - Favicon, images
 
-### Key Components
+### Key Pages
+- **Landing page**: `src/pages/index.astro` - Main marketing page
+- **Calendar**: `src/pages/calendar.astro` - Booking links (cal.com)
 
-#### Blog System
-- Blog posts in `docs/writing/posts/` with date-based naming (YYYY-MM-DD-title.md)
-- Blog index at `docs/writing/index.md`
-- Uses `mkdocs-blog-plugin` for blog functionality
-- Posts are only enabled in CI environment (`enabled: !ENV CI`)
+### Design System
+- **Fonts**: Inter (sans), Newsreader (serif) via Google Fonts
+- **Colors**: Stone palette (warm grays), blue accent (#2563eb)
+- **Layout**: Max-width 3xl (768px), generous whitespace
+- **Components**: Cards with rounded-xl borders, blockquote testimonials with left border
 
-#### Assessment Tool
-- **Revenue Growth Efficiency Assessment**: `docs/javascripts/assessment-data.js` - Contains 8 sequential questions from system prompt
-- **Assessment Engine**: `docs/javascripts/assessment-engine.js` - Handles UI flow, progress tracking, and personalized report generation
-- **Features**: Progress tracking, localStorage persistence, personalized insights, and lead capture integration
-- ConvertKit integration for lead capture
+### Legacy Files (from MkDocs era, kept for reference)
+- `docs/` - Old markdown content including blog posts
+- `mkdocs.yml` - Old MkDocs configuration
+- `overrides/` - Old theme overrides
+- `Makefile` - Old build commands
 
-#### Template System
-- Custom blog post template: `overrides/blog-post.html`
-- ConvertKit form integration: `overrides/includes/convertkit-form.html`
-- Form must be copied from `docs/includes/` to `overrides/includes/` before building
+## Deployment
 
-#### Styling
-- Custom CSS in `docs/stylesheets/extra.css`
-- Material theme with custom color scheme (indigo primary/accent)
-- Dark/light mode toggle configured
-
-### Dependencies
-- **Core**: `mkdocs-material` - Main theme and functionality
-- **Plugins**: `mkdocs-blog-plugin`, `mkdocs-macros-plugin`
-- **External**: ConvertKit for email capture, native JavaScript for assessment
+- Automated via GitHub Actions on push to main
+- Builds with Node 22, deploys to GitHub Pages
+- Output directory: `dist/`
+- Site URL: https://www.erikschwartz.net
 
 ## Content Management
 
-### Blog Posts
-- Use date-based naming: `YYYY-MM-DD-title.md`
-- Place in `docs/writing/posts/`
-- Include frontmatter for metadata
-- Blog builds are CI-only (disabled in local development)
-
-### Static Pages
-- Main landing page: `docs/index.md`
-- Other pages can be added directly to `docs/`
-
-## Build Process
-
-1. **Form Copying**: ConvertKit form HTML is copied from `docs/includes/` to `overrides/includes/`
-2. **MkDocs Build**: Standard MkDocs build process with Material theme
-3. **Deployment**: Automated via GitHub Actions on push to main branch
-
-## Special Considerations
-
-### ConvertKit Integration
-- Form HTML exists in two locations due to MkDocs limitations
-- Must run `make copy-form` or use `make serve`/`make build` to sync
-- Form is included in blog post template automatically
-
-### Revenue Growth Efficiency Assessment
-- **Assessment Flow**: 8 sequential questions identifying where management teams get trapped in admin work vs. revenue generation
-- **Question Types**: Multiple choice, text input, email capture, with optional revenue question
-- **Features**: Progress tracking, personalized insights, localStorage persistence, revenue unlock potential calculation
-- **Data Structure**: Questions defined in `assessment-data.js`, logic in `assessment-engine.js`
-- **Value Proposition**: Helps companies discover trapped revenue potential when management teams focus on growth instead of administrative burden
-- **Integration**: ConvertKit for lead capture, scheduling CTA for strategy sessions
-
-## Testing and Validation
-
-No formal test suite - validation is through:
-- Local development server (`make serve`)
-- Build validation (`make build`)
-- Visual inspection of generated site
+All content is in Astro components (`src/pages/*.astro`). Edit the HTML/Tailwind directly. No markdown processing for the main pages.
