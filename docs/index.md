@@ -51,6 +51,8 @@ One client — a growing company with a capable team stretched too thin — was 
 
 We worked together to identify the highest-impact bottlenecks, then built AI-powered systems side by side with their team. The result: those hours came back, institutional knowledge got captured in systems instead of people, and the team went from confused about AI to confidently building on what we started.
 
+In another engagement, I built tools that helped a team of dozens go from shipping work once a day to ten times that — same people, same budget, dramatically more output. That's the kind of leverage that's available right now for teams willing to focus.
+
 That's what a focused AI strategy does — not a tool demo, not a slide deck, but working systems that compound over time.
 
 ---
